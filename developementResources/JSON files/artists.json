@@ -1,0 +1,86 @@
+[{
+    "artists": [
+        {
+            "artistName" : "Leonardo Da Vinci",
+            "artistInformation" : "Leonardo di ser Piero da Vinci (15 April 1452 – 2 May 1519) was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. While his fame initially rested on his achievements as a painter, he also became known for his notebooks, in which he made drawings and notes on a variety of subjects, including anatomy, astronomy, botany, cartography, painting, and paleontology. Leonardo is widely regarded to have been a genius who epitomized the Renaissance humanist ideal, and his collective works comprise a contribution to later generations of artists matched only by that of his younger contemporary Michelangelo.",
+            "artPieceImages": [
+                {
+                    "NameOfArtPiece": "Mona Lisa",
+                    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/7/76/Leonardo_da_Vinci_-_Mona_Lisa.jpg"
+                },
+                {
+                    "NameOfArtPiece": "Salvator Mundi",
+                    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg/270px-Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg"
+                },
+                {
+                    "NameOfArtPiece": "Saint John The Baptist",
+                    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg/270px-Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg"
+                },
+                {
+                    "NameOfArtPiece": "The Last Supper",
+                    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/350px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg"
+                }
+               
+            ],
+            "userLikedArtist": null
+        },
+        {
+            "artistName" : "Caravaggio",
+            "artistInformation" : "Michelangelo Merisi (Michele Angelo Merigi or Amerighi) da Caravaggio, known as simply Caravaggio, (29 September 1571[2] – 18 July 1610) was an Italian painter active in Rome for most of his artistic life. During the final four years of his life he moved between Naples, Malta, and Sicily until his death. His paintings have been characterized by art critics as combining a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting.",
+            "artPieceImages": [
+                {
+                    "NameOfArtPiece": "Judith Beheading Holofernes",
+                    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Judit_decapitando_a_Holofernes%2C_por_Artemisia_Gentileschi.jpg/220px-Judit_decapitando_a_Holofernes%2C_por_Artemisia_Gentileschi.jpg"
+                },
+                {
+                    "NameOfArtPiece": "Narcissus",
+                    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/7/75/Narcissus-Caravaggio_%281594-96%29.jpg"
+                },
+                {
+                    "NameOfArtPiece": "Supper At Emmaus",
+                    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1602-3_Caravaggio%2CSupper_at_Emmaus_National_Gallery%2C_London.jpg/350px-1602-3_Caravaggio%2CSupper_at_Emmaus_National_Gallery%2C_London.jpg"
+                },
+                {
+                    "NameOfArtPiece": "The Conversion Of Saint Paul",
+                    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Conversion_of_Saint_Paul-Caravaggio_%28c._1600-1%29.jpg/270px-The_Conversion_of_Saint_Paul-Caravaggio_%28c._1600-1%29.jpg"
+                }
+            ],
+            "userLikedArtist": null
+        },
+        {
+            "artistName" : "Raphael",
+            "artistInformation" : "Raffaello Sanzio da Urbino (March 28 or April 6, 1483 – April 6, 1520), now generally known in English as Raphael was an Italian painter and architect of the High Renaissance. His work is admired for its clarity of form, ease of composition, and visual achievement of the Neoplatonic ideal of human grandeur. Together with Leonardo da Vinci and Michelangelo, he forms the traditional trinity of great masters of that period.",
+            "artPieceImages": [
+                {
+                    "NameOfArtPiece": "The Transfiguration",
+                    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Transfiguration_Raphael.jpg/270px-Transfiguration_Raphael.jpg"
+                },
+                {
+                    "NameOfArtPiece": "Portrait of Pope Julius",
+                    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pope_Julius_II.jpg/270px-Pope_Julius_II.jpg"
+                }
+            ],
+            "userLikedArtist": null
+        },
+        {
+            "artistName" : "Vincent Van Gogh",
+            "artistInformation" : "",
+            "artPieceImages": [
+                {
+                    "NameOfArtPiece": "The Starry Night",
+                    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/350px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+                },
+                {
+                    "NameOfArtPiece": "The Potato Eaters",
+                    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg/300px-Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg"
+                },
+                {
+                    "NameOfArtPiece": "Café Terrace at Night",
+                    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vincent_van_Gogh_%281853-1890%29_Caf%C3%A9terras_bij_nacht_%28place_du_Forum%29_Kr%C3%B6ller-M%C3%BCller_Museum_Otterlo_23-8-2016_13-35-40.JPG/270px-Vincent_van_Gogh_%281853-1890%29_Caf%C3%A9terras_bij_nacht_%28place_du_Forum%29_Kr%C3%B6ller-M%C3%BCller_Museum_Otterlo_23-8-2016_13-35-40.JPG"
+                }
+            ],
+            "userLikedArtist": null
+        }
+        
+    ]
+}]

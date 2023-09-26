@@ -1,0 +1,11 @@
+Feed back fra arna, Thomas og kristinu:
+Tey øll siga at tað følist meira natúrligt fyri tey at man like’ar á knappinum til vinstru, heldur enn høgru
+Tey øll siga at top menu (stack navigation knapparnir) følast sum at teir hoya til myndina á skerminum heldur enn at verða navigation. Liked artists skal antin verða ein knappur fyri seg í tab navigation ella ein stack I my profil page, og at main page settings skal verða eitt tannhjul inni á profil page. 
+Ein møguleiki er at man kann fylgja teimum listafólkunum, sum man hevur like’a, soleiðis at man kann síggja updateringar frá teimum (eitt sindur sum Instagram)
+Gera tað obvious at man kann síggja fleiri myndir, og visa hvussu nógvar myndir eru (líka sum Instagram)
+
+Seinni er skal man, sum kunstnari kunna leinkja til sína Insta og FB.
+Hugskot:
+Gera eina síðu, sum vísir komandi listaframsýningar hjá listafólki, sum tú fylgir.
+
+HENDAN APPIN SKAL vera ein máti hjá listafólki at marknaðarføra seg, og ein máti hjá teimum sum eru áhugaði í listi at fylgja við og kanska enntá keypa.
